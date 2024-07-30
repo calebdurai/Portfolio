@@ -1,0 +1,1 @@
+This portfolio website showcases my skills, projects, and experience using HTML, CSS, and JavaScript. It features a responsive design and dynamic content to provide a modern, clean look. Explore to learn more about my professional journey and technical expertise.
